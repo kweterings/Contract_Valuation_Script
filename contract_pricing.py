@@ -2,6 +2,7 @@
 Author: Kai Weterings
 Date: 16/11/2023 (dd/mm/YYYY)
 
+From: https://github.com/kweterings/Trader_Contract_Valuation_Script
 """
 
 # All imported and files/scripts libraries here.
