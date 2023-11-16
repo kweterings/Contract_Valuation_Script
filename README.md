@@ -26,7 +26,7 @@ injection will not interfere with a withdrawal. This means that some client acti
 done previously may not yet be complete. These intricacies, whether it is backlogged volumes to be injected or possible 
 periods of surpassed maximum storage capacity between client action dates, have all been accounted for in the code.
 
-Note to user: Please be aware that this is not a pricing model/contract valuation script used by any official traders
+⚠ Note to user: Please be aware that this is not a pricing model/contract valuation script used by any official traders
 and/or trading companies. This is simply a project fueled by my own intrigue in the subject and desire to understand the
 methods behind quantitative research.
 
